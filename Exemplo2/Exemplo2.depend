@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537988585 source:c:\users\romário campos\documents\projetos\c, c++\exemplo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1537992464 source:c:\users\romário campos\documents\projetos\c, c++\exemplo2\memoria.c
+	<stdio.h>
+	<stdlib.h>
+

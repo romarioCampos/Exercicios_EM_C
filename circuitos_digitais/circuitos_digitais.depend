@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537990310 source:c:\users\romário campos\documents\projetos\c, c++\circuitos_digitais\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537990316 source:c:\users\romário campos\documents\projetos\c, c++\circuitos_digitais\texto.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537987044 source:c:\users\romário campos\documents\projetos\c, c++\exemplo\aritmetica.c
+	"aritmetica.h"
+
+1537987058 c:\users\romário campos\documents\projetos\c, c++\exemplo\aritmetica.h
+
+1514140574 source:c:\users\romário campos\documents\projetos\c, c++\exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+
